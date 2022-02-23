@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="calculadora_semestral">Calculadora Semestral</string>
+    <string name="introduce_tus_calificaciones">Introduce tus calificaciones :)</string>
+</resources>
